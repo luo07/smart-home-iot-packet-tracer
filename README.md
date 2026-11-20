@@ -1,6 +1,6 @@
 # Smart Home IoT Automation & Security System (Cisco Packet Tracer)
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Simulation-Cisco_Packet_Tracer-1BA0D7?style=flat-square" alt="Cisco Packet Tracer" />
   <img src="https://img.shields.io/badge/Architecture-Centralized_Edge_IoT-2E7D32?style=flat-square" alt="Centralized Edge IoT" />
   <img src="https://img.shields.io/badge/Security-WPA2--PSK_AES-F57C00?style=flat-square" alt="WPA2-PSK AES" />
