@@ -1,13 +1,16 @@
 # Smart Home IoT Automation & Security System (Cisco Packet Tracer)
 
 <p align="center">
+  <a href="#english-version">English Version</a> •
+  <a href="#中文版本">中文版本</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Simulation-Cisco_Packet_Tracer-1BA0D7?style=flat-square" alt="Cisco Packet Tracer" />
   <img src="https://img.shields.io/badge/Architecture-Centralized_Edge_IoT-2E7D32?style=flat-square" alt="Centralized Edge IoT" />
   <img src="https://img.shields.io/badge/Security-WPA2--PSK_AES-F57C00?style=flat-square" alt="WPA2-PSK AES" />
   <img src="https://img.shields.io/badge/Subnet-192.168.25.0%2F24_DHCP-1565C0?style=flat-square" alt="Subnet 192.168.25.0/24" />
 </p>
-
-**Language:** [English Version](#english-version) • [中文版本](#中文版本)
 
 ---
 
